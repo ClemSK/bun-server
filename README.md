@@ -1,2 +1,1 @@
-# bun-runtime-test
-bun install
+# bun-server

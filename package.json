@@ -1,0 +1,26 @@
+{
+  "name": "bun-runtime-test",
+  "version": "1.0.0",
+  "description": "bun-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "bun-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClemSK/bun-runtime-test.git"
+  },
+  "keywords": [
+    "bun",
+    "runtime"
+  ],
+  "author": "Clement Seconde-Kynnersley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClemSK/bun-runtime-test/issues"
+  },
+  "homepage": "https://github.com/ClemSK/bun-runtime-test#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
